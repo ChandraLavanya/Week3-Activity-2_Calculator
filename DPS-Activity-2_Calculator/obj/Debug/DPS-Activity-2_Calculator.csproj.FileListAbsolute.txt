@@ -1,0 +1,15 @@
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\bin\Debug\DPS-Activity-2_Calculator.exe.config
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\bin\Debug\DPS-Activity-2_Calculator.exe
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\bin\Debug\DPS-Activity-2_Calculator.pdb
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\obj\Debug\DPS-Activity-2_Calculator.csprojAssemblyReference.cache
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\obj\Debug\MainWindow.g.cs
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\obj\Debug\App.g.cs
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\obj\Debug\DPS-Activity-2_Calculator_MarkupCompile.cache
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\obj\Debug\DPS-Activity-2_Calculator_MarkupCompile.lref
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\obj\Debug\MainWindow.baml
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\obj\Debug\DPS-Activity-2_Calculator.g.resources
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\obj\Debug\DPS_Activity_2_Calculator.Properties.Resources.resources
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\obj\Debug\DPS-Activity-2_Calculator.csproj.GenerateResource.cache
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\obj\Debug\DPS-Activity-2_Calculator.csproj.CoreCompileInputs.cache
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\obj\Debug\DPS-Activity-2_Calculator.exe
+D:\POC\DPS-Activity-2_Calculator\DPS-Activity-2_Calculator\obj\Debug\DPS-Activity-2_Calculator.pdb
